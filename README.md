@@ -1,9 +1,9 @@
 # 个人网站开发版本
-## 纯原声js手写页面
+## 纯原生js手写页面
    其实也是最开始进入前端行业锻炼的一个项目。也是为了后面的面试和自己留个念想，在前端快速发展的今天，保留其实是对自己的一个认识。同时也是记录自己这一来的路程。
 
 ## 个人博客页面
-  jeremychen.site
+  http://jeremychen.site/
 
 ## 个人SF
   https://segmentfault.com/u/jeremychen
